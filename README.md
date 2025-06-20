@@ -1,8 +1,8 @@
 ## Adaptive Local Training in Federated Learning
 
-The ICLRW 2025 version is available [here](https://openreview.net/pdf?id=EAMnemlXB2).
+The paper can be downloaded from [here](https://medialab.dei.unipd.it/paper_data/ALT/AdaptiveLocalTraining.pdf).
 
-The EUSIPCO 2025 version and the code will be made available soon.
+The code will be made available soon.
 
 ## Citation
 
@@ -10,6 +10,7 @@ The EUSIPCO 2025 version and the code will be made available soon.
 @inproceedings{shenaj2025adaptive,
   title={Adaptive Local Training in Federated Learning},
   author={Shenaj, Donald and Belilovsky, Eugene and Zanuttigh, Pietro},
-  booktitle={ICLR 2025 Workshop on Modularity for Collaborative, Decentralized, and Continual Deep Learning}
+  year={2025}
+  booktitle={Proceedings of 33rd European Signal Processing Conference (EUSIPCO 2025)}
 }
 ```
